@@ -1,0 +1,62 @@
+{
+    "personalInfo": {
+      "name": "John Doe",
+      "email": "johndoe@email.com",
+      "phone": "+123456789",
+      "location": "New York, USA",
+      "linkedin": "https://linkedin.com/in/johndoe"
+    },
+    "summary": "Experienced software engineer with a background in AI and cloud technologies.",
+    "experience": [
+      {
+        "title": "AI/ML Engineer",
+        "organization": "Xenon7",
+        "type": "Full-time",
+        "startDate": "2025-01",
+        "endDate": "Present",
+        "durationInMonths":3,
+        "description": "Developed AI solutions in data science, ML, and generative AI."
+      },
+      {
+        "title": "Freelance Data Scientist",
+        "organization": "Multiple Clients",
+        "type": "Freelance",
+        "startDate": "2022-11",
+        "endDate": "2024-09",
+        "durationInMonths":22,
+        "description": "Executed AI and data science projects for various clients."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Science in Computer Science",
+        "institution": "International University of Sarajevo",
+        "startDate": "2016-09",
+        "endDate": "2018-09"
+      }
+    ],
+    "skills": {
+      "technical": ["Python", "SQL", "Machine Learning", "TensorFlow"],
+      "soft": ["Leadership", "Communication", "Project Management"]
+    },
+    "projects": [
+      {
+        "title": "AI-Powered Document Parser",
+        "description": "Built an NLP-based system to analyze and extract data from documents.",
+        "technologiesUsed": ["Python", "NLP", "FastAPI"]
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Knowledge Graph Development",
+        "description": "Contributed to AI-driven knowledge graphs for investment research."
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      }
+    ]
+  }
+  

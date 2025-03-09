@@ -1,0 +1,52 @@
+{
+    "personalInfo": {
+      "name": "John Doe",
+      "email": "john.doe@email.com",
+      "phone": "+123456789",
+      "location": "New York, USA"
+    },
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "University of Technology",
+        "startDate": "2016-09",
+        "endDate": "2020-06"
+      }
+    ],
+    "workExperience": [
+      {
+        "jobTitle": "Software Engineer",
+        "company": "Tech Corp Inc.",
+        "startDate": "2020-07",
+        "endDate": "2023-12",
+        "description": "Full-stack development using Python and JavaScript"
+      }
+    ],
+    "technicalSkills": {
+      "programmingLanguages": ["Python", "JavaScript"],
+      "frameworks": ["Django", "React"],
+      "tools": ["Git", "Docker"]
+    },
+    "projects": [
+      {
+        "title": "CV Parser Application",
+        "description": "AI-powered CV analysis tool",
+        "technologiesUsed": ["Python", "NLP", "FastAPI"]
+      }
+    ],
+    "certifications": [
+      "AWS Certified Developer - Associate",
+      "Google Cloud Professional Data Engineer"
+    ],
+    "languages": [
+      {"language": "English", "proficiency": "Native"},
+      {"language": "Spanish", "proficiency": "Intermediate"}
+    ],
+    "hobbies": ["Hiking", "Open-source contributions"],
+    "references": [
+      {
+        "name": "Jane Smith",
+        "contact": "jane.smith@company.com"
+      }
+    ]
+  }

@@ -1,0 +1,94 @@
+{
+    "personalInfo": {
+      "name": "John Doe",
+      "email": "john.doe@email.com",
+      "phone": "+123456789",
+      "location": "New York, USA",
+      "linkedin": "https://www.linkedin.com/in/johndoe",
+      "portfolio": "https://johndoe.dev"
+    },
+    "summary": "Experienced software engineer specializing in AI and cloud technologies.",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "University of Technology",
+        "startDate": "2016-09",
+        "endDate": "2020-06",
+        "gpa": 3.8
+      }
+    ],
+    "workExperience": [
+      {
+        "jobTitle": "Software Engineer",
+        "company": "Tech Corp Inc.",
+        "employmentType": "Full-time",
+        "startDate": "2020-07",
+        "endDate": "2023-12",
+        "responsibilities": [
+          "Developed and maintained web applications using Python and JavaScript",
+          "Implemented RESTful APIs and microservices architecture",
+          "Led a team of junior developers"
+        ],
+        "technologiesUsed": ["Python", "React", "Docker", "AWS"]
+      },
+      {
+        "jobTitle": "Intern",
+        "company": "Startup X",
+        "employmentType": "Internship",
+        "startDate": "2019-06",
+        "endDate": "2019-09",
+        "responsibilities": [
+          "Built automation scripts using Python",
+          "Assisted in database migrations"
+        ]
+      }
+    ],
+    "technicalSkills": {
+      "programmingLanguages": ["Python", "JavaScript", "Java"],
+      "frameworks": ["Django", "React", "Spring Boot"],
+      "databases": ["PostgreSQL", "MongoDB"],
+      "cloudPlatforms": ["AWS", "Google Cloud"],
+      "tools": ["Git", "Docker", "Kubernetes"]
+    },
+    "softSkills": ["Leadership", "Communication", "Problem-solving"],
+    "projects": [
+      {
+        "title": "CV Parser Application",
+        "description": "AI-powered CV analysis tool",
+        "technologiesUsed": ["Python", "NLP", "FastAPI"],
+        "githubLink": "https://github.com/johndoe/cv-parser"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified Developer - Associate",
+        "issuedBy": "Amazon Web Services",
+        "year": 2022
+      },
+      {
+        "name": "Google Cloud Professional Data Engineer",
+        "issuedBy": "Google",
+        "year": 2023
+      }
+    ],
+    "languages": [
+      {"language": "English", "proficiency": "Native"},
+      {"language": "Spanish", "proficiency": "Intermediate"}
+    ],
+    "awards": [
+      {
+        "title": "Best AI Developer of the Year",
+        "year": 2021,
+        "organization": "Tech Innovation Awards"
+      }
+    ],
+    "hobbies": ["Hiking", "Open-source contributions", "Chess"],
+    "references": [
+      {
+        "name": "Jane Smith",
+        "contact": "jane.smith@company.com",
+        "jobTitle": "Engineering Manager"
+      }
+    ]
+  }
+  
